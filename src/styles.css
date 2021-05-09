@@ -128,6 +128,10 @@ h3 {
     text-align: center;
   }
 
+  .container p {
+    text-align: center;
+  }
+
   .yoga-btn,
   .weather-btn,
   .yogurt-btn {
